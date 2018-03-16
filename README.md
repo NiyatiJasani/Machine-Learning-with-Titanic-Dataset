@@ -1,2 +1,2 @@
 # Machine-Learning-with-Titanic-Dataset
-This datset is based on a code-along workshop by datacamp
+This datset is based on a live code-along workshop by datacamp
